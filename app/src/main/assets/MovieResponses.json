@@ -1,0 +1,287 @@
+{
+    "movie":[
+        {
+            "id": "mv0",
+            "title": "Honset Thief",
+            "year": "2020",
+            "duration": "1h 38m",
+            "score": "72%",
+            "genre": "Action,Thriller,Crime, Drama",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeD4PabP6099gpE0STWJrJrCBCs.jpg",
+            "overview": "A bank robber tries to turn himself in because he's falling in love and wants to live an honest life...but when he realizes the Feds are more corrupt than him, he must fight back to clear his name."
+        },
+        {
+            "id": "mv1",
+            "title": "Godmothered", 
+            "year": "2020", 
+            "duration": "1h 53m",
+            "score": "72%", 
+            "genre": "Family, Fantasy, Comedy",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ir8Qqi90mENhH7CDxEpdeCcm6UL.jpg",
+            "overview": "A young and unskilled fairy godmother that ventures out on her own to prove her worth by tracking down a young girl whose request for help was ignored. What she discovers is that the girl has now become a grown woman in need of something very different than a \"prince charming.\""
+        },
+        {
+            "id": "mv2",
+            "title": "Wonder Woman 1984 ", 
+            "year": "2020", 
+            "duration": "2h 31m",
+            "score": "78%", 
+            "genre": "Fantasy, Action, Adventure",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/di1bCAfGoJ0BzNEavLsPyxQ2AaB.jpg",
+            "overview": "Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah."
+        },
+        {
+            "id": "mv3",
+            "title": "Mulan", 
+            "year": "2020", 
+            "duration": "1h 55m",
+            "score": "71%",
+            "genre": "Action, Adventure, Drama, Fantasy",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+            "overview": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential."
+        },
+        {
+            "id": "mv4",
+            "title": "Over the Moon ",
+            "year": "2020", 
+            "duration": "1h 40m",
+            "score": "76%", 
+            "genre": "Animation, Adventure, Family, Fantasy",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQfdytwN7eh0tXWjIiMceFdBBvD.jpg",
+            "overview": "In this animated musical, a girl builds a rocket ship and blasts off, hoping to meet a mythical moon goddess."
+        },
+        {
+            "id": "mv5",
+            "title": "Joker", 
+            "year": "2019", 
+            "duration": "2h 2m",
+            "score": "82%", 
+            "genre": "Crime, Thriller, Drama",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+            "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure."
+        },
+        {
+            "id": "mv6",
+            "title": "Bad Boys for Life ",
+            "year": "2020",
+            "duration": "2h 4m",
+            "score": "73%",
+            "genre": "Thriller, Action, Crime",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+            "overview": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel."
+        },
+        {
+            "id": "mv7",
+            "title": "Mortal Kombat Legends: Scorpion's Revenge",
+            "year": "2020",
+            "duration": "1h 20m",
+            "score": "84%",
+            "genre": "Fantasy, Action, Adventure, Animation",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VlXER3FImHeFuUjBShFamhIp9M.jpg",
+            "overview": "After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament."
+        },
+        {
+            "id": "mv8",
+            "title": "Alladin",
+            "year": "2019",
+            "duration": "2h 8m",
+            "score": "72%",
+            "genre": "Adventure, Fantasy, Romance, Family",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
+            "overview": "A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true."
+        },
+        {
+            "id": "mv9",
+            "title": "A Silent Voice",
+            "year": "2016",
+            "duration": "2h 10m",
+            "score": "84%",
+            "genre": "Animation, Drama, Romance",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/drlyoSKDOPnxzJFrRWGqzDsyJvR.jpg",
+            "overview": "Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again... until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late...?"
+        },
+        {
+            "id": "mv10",
+            "title": "Tenet ",
+            "year": "2020",
+            "duration": "2h 30m",
+            "score": "74%",
+            "genre": "Action, Thriller, Science Fiction",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k68nPLbIST6NP96JmTxmZijEvCA.jpg",
+            "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time."
+        },
+        {
+            "id": "mv11",
+            "title": "A Whisker Away",
+            "year": "2020",
+            "duration": "1h 44m",
+            "score": "81%",
+            "genre": "Animation, Drama, Romance, Fantasy",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ga1CI4ZIIF8fxyfjZ5sNlb75e4.jpg",
+            "overview": "Miyo \"Muge\" Sasaki is a peculiar second-year junior high student who has fallen in love with her classmate Kento Hinode. Muge resolutely pursues Kento every day, but he takes no notice of her. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat named Tarō. The magic lets Muge get close to Kento, but eventually it may also make her unable to transform back to a human."
+        },
+        {
+            "id": "mv12",
+            "title": "Ip Man 4: The Finale ",
+            "year": "2019",
+            "duration": "1h 45m",
+            "score": "72%",
+            "genre": "Action, Drama, History",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5cz6BoyHrgBnhfDHOW5hXRWbln.jpg",
+            "overview": "Following the death of his wife, Ip Man travels to San Francisco to ease tensions between the local kung fu masters and his star student, Bruce Lee, while searching for a better future for his son."
+        },
+        {
+            "id": "mv13",
+            "title": "Weathering with You", 
+            "year": "2019", 
+            "duration": "1h 52m",
+            "score": "82%",
+            "genre": "Animation, Romance, Fantasy, Drama",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg",
+            "overview": "Tokyo is currently experiencing rain showers that seem to disrupt the usual pace of everyone living there to no end. Amidst this seemingly eternal downpour arrives the runaway high school student Hodaka Morishima, who struggles to financially support himself—ending up with a job at a small-time publisher. At the same time, the orphaned Hina Amano also strives to find work to sustain herself and her younger brother. Both fates intertwine when Hodaka attempts to rescue Hina from shady men, deciding to run away together. Subsequently, Hodaka discovers that Hina has a strange yet astounding power: the ability to call out the sun whenever she prays for it. With Tokyo's unusual weather in mind, Hodaka sees the potential of this ability. He suggests that Hina should become a \"sunshine girl\"—someone who will clear the sky for people when they need it the most. Things begin looking up for them at first. However, it is common knowledge that power always comes with a hefty price..."
+        }            
+    ],
+    
+    "tvShow": [
+        {
+            "id": "tv0",
+            "title": "The Mandalorian ",
+            "year": "2019",
+            "duration": "35m",
+            "score": "85%",
+            "genre": "Sci-Fi & Fantasy, Action & Adventure",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+            "overview": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter."
+        },
+        {
+            "id": "tv1",
+            "title": "SEAL Team ", 
+            "year": "2017",
+            "duration": "43m",
+            "score": "78%",
+            "genre": "Action & Adventure, Drama, War & Politics",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTSLeQTeHevt4fplegmQ6bOnE0Z.jpg",
+            "overview": "The lives of the elite Navy Seals as they train, plan and execute the most dangerous, high-stakes missions our country can as"
+        },
+        {
+            "id": "tv2", 
+            "title": "Game of Thrones ", 
+            "year": "2011", 
+            "duration": "1h",
+            "score": "84%", 
+            "genre": "Sci-Fi & Fantasy, Drama, Action & Adventure, Mystery",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+            "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond."
+        },
+        {
+            "id": "tv3", 
+            "title": "The Simpsons", 
+            "year": "1989", 
+            "duration": "22m",
+            "score": "78%", 
+            "genre": "Animation, Comedy, Family, Drama",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IWouZK4gkgHhJa3oyYuSWfSqbG.jpg",
+            "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general."
+        },
+        {
+            "id": "tv4",
+            "title": "Tokyo Ghoul", 
+            "year": "2014", 
+            "duration": "24m",
+            "score": "85%", 
+            "genre": "Action & Adventure, Animation, Drama, Mystery",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mt6ForyKh4JS0v5ho8xhauISidF.jpg",
+            "overview": "Ken Kaneki is a bookworm college student who meets a girl names Rize at a cafe he frequents. They're the same age and have the same interests, so they quickly become close. Little does Kaneki know that Rize is a ghoul - a kind of monster that lives by hunting and devouring human flesh. When part of her special organ - \"the red child\" - is transplanted into Kaneki, he becomes a ghoul himself, trapped in a warped world where humans are not the top of the food chain."
+        },
+        {
+            "id": "tv5", 
+            "title": "One-Punch Man",
+            "year":  "2015", 
+            "duration": "24m",
+            "score": "84%",
+            "genre": "Action & Adventure, Animation, Comedy",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg",
+            "overview": "Saitama is a hero who only became a hero for fun. After three years of “special” training, though, he’s become so strong that he’s practically invincible. In fact, he’s too strong—even his mightiest opponents are taken out with a single punch, and it turns out that being devastatingly powerful is actually kind of a bore. With his passion for being a hero lost along with his hair, yet still faced with new enemies every day, how much longer can he keep it going?"
+        },
+        {
+            "id": "tv6", 
+            "title": "The God of High School ",
+            "year": "2020", 
+            "duration": "24m",
+            "score": "86%", 
+            "genre": "Animation, Comedy, Action & Adventure, Sci-Fi & Fantasy",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnXFYG7y2A65dr5noYvZSdVq8l3.jpg",
+            "overview": "When an island half-disappears from the face of the earth, a mysterious organization sends out invitations for a tournament to every skilled fighter in the world. \"If you win you can have ANYTHING you want,\" they claim. They're recruiting only the best to fight the best and claim the title of The God of High School. Jin Mori, a Taekwondo specialist and a high school student, soon learns that there is something much greater beneath the stage of the tournament."
+        },
+        {
+            "id": "tv7", 
+            "title": "The Rising of the Shield Hero",
+            "year": "2019",
+            "duration": "24m",
+            "score": "91%", 
+            "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy, Drama",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftavpq2PJn5pyo5opJEmj8QleKD.jpg",
+            "overview": "Iwatani Naofumi was summoned into a parallel world along with 3 other people to become the world's Heroes. Each of the heroes respectively equipped with their own legendary equipment when summoned, Naofumi received the Legendary Shield as his weapon. Due to Naofumi's lack of charisma and experience he's labeled as the weakest, only to end up betrayed, falsely accused, and robbed by on the third day of adventure. Shunned by everyone from the king to peasants, Naofumi's thoughts were filled with nothing but vengeance and hatred. Thus, his destiny in a parallel World begins..."
+        },
+        {
+            "id": "tv8", 
+            "title": "Made In Abyss",
+            "year": "2017",
+            "duration": "24m",
+            "score": "90%",
+            "genre": "Action & Adventure, Animation, Sci-Fi & Fantasy",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVK3H8CgtrVgySFpdImvNXkN7RK.jpg",
+            "overview": "The “Abyss” is the last unexplored region, an enormous and treacherous cave system filled with ancient relics and strange creatures. Only the bravest of adventurers can traverse its depths, earning them the nickname, “Cave Raiders.” Within the depths of the Abyss, a girl named Riko stumbles upon a robot who looks like a young boy. Tantalized by the Abyss, Riko and her new friend descend into uncharted territory to unlock its mysteries, but what lies in wait for them in the darkness?"
+        },
+        {
+            "id": "tv9", 
+            "title": "Attack on Titan: No Regrets", 
+            "year": "2014", 
+            "duration": "27m",
+            "score": "89%",
+            "genre": "Sci-Fi & Fantasy, Action & Adventure, Animation",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGdz67d5WHIU7kIqVHO2TxIpmhZ.jpg",
+            "overview": "Many years before becoming the famed captain of the Survey Corps, a young Levi struggles to survive in the capital's garbage dump, the Underground. As the boss of his own criminal operation, Levi attempts to get by with meager earnings while aided by fellow criminals, Isabel Magnolia and Farlan Church. With little hope for the future, Levi accepts a deal from the anti-expedition faction leader Nicholas Lobov, who promises the trio citizenship aboveground if they are able to successfully assassinate Erwin Smith, a squad leader of the Survey Corps.\n \nAs Levi and Erwin cross paths, Erwin acknowledges Levi's agility and skill and gives him the option to either become part of the expedition team, or be turned over to the Military Police, to atone for his crimes. Now closer to the man they are tasked to kill, the group plans to complete their mission and save themselves from a grim demise in the dim recesses of their past home. However, they are about to learn that the surface world is not as liberating as they had thought and that sometimes, freedom can come at a heavy price.\n \nBased on the popular spin-off manga of the same name, Attack on Titan: No Regrets illustrates the encounter between two of Attack on Titan's pivotal characters, as well as the events of the 23rd expedition beyond the walls."
+        },
+        {
+            "id": "tv10",
+            "title": "The Promised Neverland",
+            "year":  "2019", 
+            "duration": "23m",
+            "score": "92%", 
+            "genre": "Animation, Mystery, Sci-Fi & Fantasy, Action & Adventure, Drama",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxdeII5tI8qqiERcMxjW9DfB6Gz.jpg",
+            "overview": "Surrounded by a forest and a gated entrance, the Grace Field House is inhabited by orphans happily living together as one big family, looked after by their \"Mama,\" Isabella. Although they are required to take tests daily, the children are free to spend their time as they see fit, usually playing outside, as long as they do not venture too far from the orphanage — a rule they are expected to follow no matter what. However, all good times must come to an end, as every few months, a child is adopted and sent to live with their new family... never to be heard from again.\n \nHowever, the three oldest siblings have their suspicions about what is actually happening at the orphanage, and they are about to discover the cruel fate that awaits the children living at Grace Field, including the twisted nature of their beloved Mama."
+        },
+        {
+            "id": "tv11",
+            "title": "Under the Dome", 
+            "year": "2013",
+            "duration":  "42m",
+            "score": "72%", 
+            "genre": "Drama, Mystery, Sci-Fi & Fantasy",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwH0ePhd7m3swtCuFeubtR49ZTd.jpg",
+            "overview": "A small town is suddenly and inexplicably sealed off from the rest of the world by an enormous transparent dome. While military forces, the government and the media positioned outside of this surrounding barrier attempt to break it down, a small group of people inside attempt to figure out what the dome is, where it came from, and when (and if) it will go away."
+        },
+        {
+            "id": "tv12", 
+            "title": "The Wilds", 
+            "year": "2020",
+            "duration": "1h",
+            "score": "84%",
+            "genre": "Drama, Mystery",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBtyMdHbWoM3tpM8VZymer8HfF.jpg",
+            "overview": "A group of teen girls from different backgrounds must fight for survival after a plane crash strands them on a deserted island. The castaways both clash and bond as they learn more about each other, the secrets they keep, and the traumas they've all endured. But there’s just one twist… these girls did not end up on this island by accident."
+        },
+        {
+            "id": "tv13", 
+            "title": "Chernobyl", 
+            "year": "2019", 
+            "duration": "1h 10m",
+            "score": "85%",
+            "genre": "Drama",
+            "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+            "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster."
+        }
+    ]
+}
